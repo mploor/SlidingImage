@@ -1,0 +1,56 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    height: 100%;
+}
+
+.cd-fixed-bg {
+    min-height: 100%;
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.cd-bg-text {
+    color: blue;
+    font-family: 'Century Gothic';
+    font-size: 60pt;
+    padding: 40px;
+}
+
+.cd-fixed-bg.cd-bg-1 {
+    background-image: url('images/IMG_3659.JPG');
+}
+
+.cd-fixed-bg.cd-bg-2 {
+    background-image: url('images/IMG_4120.JPG');
+}
+
+.cd-fixed-bg.cd-bg-3 {
+    background-image: url('images/IMG_4431.JPG');
+}
+
+.cd-scrolling-bg {
+    min-height: 100%;
+    font-family: 'Century Gothic';
+    font-size: 20pt;
+    color: blue;
+}
+
+.footerstyle {
+    background-color: lightblue;
+    color: blue;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+}
+
+span {
+    font-style: italic;
+}
+

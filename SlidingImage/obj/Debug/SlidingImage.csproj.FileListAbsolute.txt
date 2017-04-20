@@ -1,0 +1,6 @@
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\bin\SlidingImage.dll.config
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\bin\SlidingImage.dll
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\bin\SlidingImage.pdb
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\obj\Debug\SlidingImage.csprojResolveAssemblyReference.cache
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\obj\Debug\SlidingImage.dll
+C:\programming\FullStackClass\PostGrad\SlidingImage\SlidingImage\obj\Debug\SlidingImage.pdb
